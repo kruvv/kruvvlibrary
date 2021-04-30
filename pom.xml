@@ -6,7 +6,7 @@
   
   <properties>
         <webflow-version>2.4.1.RELEASE</webflow-version>
-        <spring-framework-version>5.1.8.RELEASE</spring-framework-version>
+        <spring-framework-version>5.1.18.RELEASE</spring-framework-version>
         <springsecurity-version>3.2.6.RELEASE</springsecurity-version>
         <slf4j-version>1.7.8</slf4j-version>
         <mojarra-version>2.2.10</mojarra-version>
